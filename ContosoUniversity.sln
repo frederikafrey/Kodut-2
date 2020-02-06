@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversity", "ContosoUniversity\ContosoUniversity.csproj", "{EC093B7D-3379-411C-B636-B7BF0A1C855B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stuff", "Stuff", "{BC7848B9-A4E0-44A8-BD1B-26C530561E2E}"
+	ProjectSection(SolutionItems) = preProject
+		Time recording log second week.xlsx = Time recording log second week.xlsx
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPagesMovie", "week01\RazorPagesMovie.csproj", "{EAEF1CBB-1848-4D47-98AE-3FDAC7B060EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{EC093B7D-3379-411C-B636-B7BF0A1C855B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC093B7D-3379-411C-B636-B7BF0A1C855B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC093B7D-3379-411C-B636-B7BF0A1C855B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAEF1CBB-1848-4D47-98AE-3FDAC7B060EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAEF1CBB-1848-4D47-98AE-3FDAC7B060EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAEF1CBB-1848-4D47-98AE-3FDAC7B060EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAEF1CBB-1848-4D47-98AE-3FDAC7B060EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
